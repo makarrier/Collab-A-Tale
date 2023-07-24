@@ -1,0 +1,9 @@
+.btn-custom-txt:hover {
+    background-color: #a0d2eb !important;
+}
+.txt-color-basic{
+    color:white;
+}
+.txt-color-basic:hover{
+    color:black;
+}
