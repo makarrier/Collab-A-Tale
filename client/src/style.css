@@ -66,3 +66,15 @@
     width: 200px;
     position: relative;
 }
+#leftText {
+    font-size: large;
+    transition: 0.5s;
+}
+#rightText {
+    font-size: large;
+    transition: 0.5s;
+}
+#centerText {
+    font-size: large;
+    transition: 0.5s;
+}
